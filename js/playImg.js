@@ -36,6 +36,6 @@ function buttonFadeIn(){
 
 setInterval(function (){
 	if(ok == 3){
-		setInterval(buttonFadeIn, 200);
+		setInterval(buttonFadeIn, 8000);
 	}
 }, 50)
